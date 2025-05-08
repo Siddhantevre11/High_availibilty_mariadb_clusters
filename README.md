@@ -1,4 +1,4 @@
-# High_availibilty_mariadb_clusters
+
 # High Availability MariaDB Clusters with Galera on AWS ☁️
 
 ## 📌 Project Overview
